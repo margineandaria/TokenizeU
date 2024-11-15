@@ -1,0 +1,14 @@
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\bin\Debug\net8.0\TokenizeU.exe
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\bin\Debug\net8.0\TokenizeU.deps.json
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\bin\Debug\net8.0\TokenizeU.runtimeconfig.json
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\bin\Debug\net8.0\TokenizeU.dll
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\bin\Debug\net8.0\TokenizeU.pdb
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.AssemblyInfo.cs
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.dll
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\refint\TokenizeU.dll
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.pdb
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.genruntimeconfig.cache
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\ref\TokenizeU.dll
