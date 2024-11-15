@@ -12,3 +12,4 @@ C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\refint\Token
 C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.pdb
 C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.genruntimeconfig.cache
 C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\ref\TokenizeU.dll
+C:\Users\alex\Documents\GitHub\TokenizeU\TokenizeU\obj\Debug\net8.0\TokenizeU.sourcelink.json

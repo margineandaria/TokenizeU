@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Encodings.Web;
 
 namespace Tokenizeu
 {
@@ -41,7 +42,7 @@ namespace Tokenizeu
                         bool isValid = double.TryParse(Console.ReadLine(), out nota);
                         if (isValid && nota >= 1 && nota <= 10)
                         {
-                            Console.Write($"Numarul incercarii pentru nota {i + 1}: ");
+                            Console.Write($"sesiunea notei {i + 1}: ");
                             bool isValidIncercare = int.TryParse(Console.ReadLine(), out incercare);
                             if (isValidIncercare && incercare >= 1)
                             {
@@ -50,18 +51,20 @@ namespace Tokenizeu
                             }
                             else
                             {
-                                Console.WriteLine("incercarea trebuie să fie un numar pozitiv.");
+                                Console.WriteLine("incercarea trebuie sa fie un numar pozitiv.");
                             }
                         }
                         else
                         {
-                            Console.WriteLine("Nota invalida! Vă rugăm sa introduceti o valoare intre 1 și 10.");
+                            Console.WriteLine("Nota invalida! Va rugam sa introduceti o valoare intre 1 și 10.");
                         }
                     }
                 }
-
-                Console.Write("Numarul incercarii: ");
-                int numarIncercari = int.Parse(Console.ReadLine());
+                int Numardeincercari = 0;
+                for(int i = 1; i < numarNote; i++){
+                     Numardeincercari ++;
+                }
+                int numarIncercari = Numardeincercari;
 
                 NoteSesiune noteSesiune = new NoteSesiune(note, numarIncercari);
 
@@ -114,7 +117,7 @@ namespace Tokenizeu
 
                 ParticipareConcursuri participareConcursuri = new ParticipareConcursuri(locOlimpiada, numarConferinte, tipArticol, numarCercuri, numarCursuri);
 
-                Console.Write("Tip premiu (1 = Concurs National, 2 = Premiu National, 3 = Premiu International): ");
+                Console.Write("Tip premiu (1 = Concurs National, 2 = Premiu National, 3 = Premiu International, 4 = Nu a Participat): ");
                 int tipPremiu = int.Parse(Console.ReadLine());
                 string tipPremiuText = tipPremiu switch
                 {
